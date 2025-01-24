@@ -1,0 +1,46 @@
+{
+	"author": {
+		"name": "Baptiste Pillot",
+		"email": "baptiste@pillot.fr"
+	},
+	"description": "Respectful real-viewport-height: avoids <div>, respects white-space: pre* styles line breaks",
+	"devDependencies": {
+		"@types/node": "^22.9",
+		"typescript": "5.6"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"*.d.ts",
+		"*.js"
+	],
+	"homepage": "https://it.rocks",
+	"keywords": [
+		"carriage return",
+		"real-viewport-height",
+		"fix",
+		"fixed",
+		"front-end",
+		"it.rocks",
+		"line feed",
+		"line break",
+		"pre",
+		"raw",
+		"style",
+		"text",
+		"white-space"
+	],
+	"license": "ISC",
+	"module": "./real-viewport-height.js",
+	"name": "@itrocks/real-viewport-height",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/itrocks-ts/real-viewport-height.git"
+	},
+	"scripts": {
+		"build": "tsc"
+	},
+	"type": "module",
+	"types": "./real-viewport-height.d.ts",
+	"version": "0.0.1"
+}
