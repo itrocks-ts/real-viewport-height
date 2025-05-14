@@ -6,7 +6,7 @@
 	"description": "Maintains a CSS variable --real-vh with the actual visible viewport height",
 	"devDependencies": {
 		"@types/node": "^22.9",
-		"typescript": "5.6"
+		"typescript": "~5.8"
 	},
 	"files": [
 		"LICENSE",
@@ -31,5 +31,5 @@
 	},
 	"type": "module",
 	"types": "./real-viewport-height.d.ts",
-	"version": "0.0.4"
+	"version": "0.0.5"
 }
