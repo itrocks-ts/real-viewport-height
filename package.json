@@ -16,8 +16,17 @@
 	],
 	"homepage": "https://it.rocks",
 	"keywords": [
+		"css",
+		"fix",
 		"front-end",
-		"it.rocks"
+		"height",
+		"html",
+		"it.rocks",
+		"mobile",
+		"real",
+		"responsive",
+		"viewport",
+		"vh"
 	],
 	"license": "ISC",
 	"module": "./real-viewport-height.js",
@@ -31,5 +40,5 @@
 	},
 	"type": "module",
 	"types": "./real-viewport-height.d.ts",
-	"version": "0.1.0"
+	"version": "0.1.1"
 }
