@@ -5,8 +5,7 @@
 	},
 	"description": "Maintains a CSS variable --real-vh with the actual visible viewport height",
 	"devDependencies": {
-		"@types/node": "^24.10",
-		"typescript": "~5.9"
+		"typescript": "^6.0"
 	},
 	"files": [
 		"LICENSE",
@@ -29,7 +28,6 @@
 		"vh"
 	],
 	"license": "ISC",
-	"module": "./real-viewport-height.js",
 	"name": "@itrocks/real-viewport-height",
 	"repository": {
 		"type": "git",
@@ -38,7 +36,5 @@
 	"scripts": {
 		"build": "tsc"
 	},
-	"type": "module",
-	"types": "./real-viewport-height.d.ts",
-	"version": "0.1.1"
+	"version": "0.1.2"
 }
